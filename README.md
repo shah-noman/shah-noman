@@ -25,4 +25,4 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 </div>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <b>Comit History:</b>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="ttps://github-readme-activity-graph.vercel.app/graph?username=shah-noman&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shah-noman&https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
